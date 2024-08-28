@@ -30,8 +30,4 @@ git clone https://github.com/fiidalgo/digital-comm.git
 pip install -r requirements.txt
 ```
 
-**3. Run the script ot evaluate the techniques:**
-
-```bash
-python digital-comm.ipynb
-```
+**3. Run the script to evaluate the techniques**
